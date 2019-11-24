@@ -1,0 +1,9 @@
+.vs/
+Binaries/
+Config/
+Content/StarterContent/
+Saved/
+Intermediate/Build/
+Intermediate/AssetRegistryCache/
+Intermediate/ReimportCache/
+Intermediate/CachedAssetRegistry.bin

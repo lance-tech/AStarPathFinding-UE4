@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AStarPathFinding.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{56FBD978-C68F-4695-834B-87F1B41EE84E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AStarPathFinding.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AStarPathFindingEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\LICENSE" />
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{088FA1C3-54BB-4341-B33D-2D89138A0627}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{C8E1B306-AB94-4855-AC30-5802507119FD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{5B316C72-2F59-4B5F-9954-EF75E26464C7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{CBA85C9A-F91B-4A67-B719-3BB15EE59598}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{75C01BB6-6607-4A1E-AEFC-8A7C1B6AA83A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{6874D84B-3CCE-4AC0-8F9D-200168455DFC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{E3DC135B-2D68-438F-A8D4-7516FCB613BA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{ADCD293B-373C-4AD3-91DC-487908EDCEBB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{FD72F766-9B78-464F-9573-65E17867FE78}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Source\AStarPathFinding">
+      <UniqueIdentifier>{8591CC61-616E-4E7C-8298-E2C5E18CB5F4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AStarPathFinding\AStarPathFinding.Build.cs">
+      <Filter>Source\AStarPathFinding</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AStarPathFinding\AStarPathFinding.cpp">
+      <Filter>Source\AStarPathFinding</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AStarPathFinding\AStarPathFinding.h">
+      <Filter>Source\AStarPathFinding</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\AStarPathFinding\AStarPathFindingGameModeBase.h">
+      <Filter>Source\AStarPathFinding</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AStarPathFinding\Board.cpp">
+      <Filter>Source\AStarPathFinding</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AStarPathFinding\Board.h">
+      <Filter>Source\AStarPathFinding</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AStarPathFinding\Node.cpp">
+      <Filter>Source\AStarPathFinding</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AStarPathFinding\Node.h">
+      <Filter>Source\AStarPathFinding</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AStarPathFinding\ObstacleMesh.cpp">
+      <Filter>Source\AStarPathFinding</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AStarPathFinding\ObstacleMesh.h">
+      <Filter>Source\AStarPathFinding</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AStarPathFinding\PathFinding.cpp">
+      <Filter>Source\AStarPathFinding</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AStarPathFinding\PathFinding.h">
+      <Filter>Source\AStarPathFinding</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
